@@ -9,3 +9,6 @@ The page consists of:
 ### Technologies Used
 - **HTML**
 - **CSS**
+
+![Página do projeto](https://github.com/GuilhermoSilveira1/P-gina-de-Treino-em-CSS/blob/main/Tela%20do%20projeto%20-%20superior.png)
+![Página do projeto](https://github.com/GuilhermoSilveira1/P-gina-de-Treino-em-CSS/blob/main/Tela%20do%20projeto%20-%20inferior.png)
